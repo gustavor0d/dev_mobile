@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Dev Mobile</string>
+    <string name="calculadora">Calculadora IMC</string>
+    <string name="sobre">Sobre</string>
+    <string name="peso_kg">Peso (kg)</string>
+    <string name="altura_m">Altura (m)</string>
+    <string name="calcular">Calcular</string>
+    <string name="seu_imc">Seu IMC aparecerá aqui</string>
+    <string name="voltar">Voltar</string>
+</resources>
