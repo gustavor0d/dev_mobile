@@ -24,6 +24,7 @@
         android:hint="@string/peso_kg"
         android:inputType="numberDecimal"
         android:background="@drawable/opcao_background"
+        android:textColor="@color/black"
         android:padding="10dp"/>
 
     <EditText
@@ -34,6 +35,7 @@
         android:inputType="numberDecimal"
         android:padding="10dp"
         android:background="@drawable/opcao_background"
+        android:textColor="@color/black"
         android:layout_marginTop="8dp"/>
 
     <Button
@@ -51,6 +53,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/seu_imc"
+        android:textColor="@color/black"
         android:textSize="18sp"
         android:gravity="center"
         android:layout_marginTop="16dp"
